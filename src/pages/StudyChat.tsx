@@ -182,7 +182,7 @@ const StudyChat = () => {
 
       const tutor1Response = await callGroqAPI(
         tutor1Prompt,
-        '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',
+        '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',
         'Tutor1'
       );
 
@@ -212,7 +212,7 @@ const StudyChat = () => {
 
         const tutor2Response = await callGroqAPI(
           tutor2Prompt,
-          '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',
+          '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',
           'Tutor2'
         );
 
