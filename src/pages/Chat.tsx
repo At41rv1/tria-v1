@@ -182,7 +182,7 @@ const Chat = () => {
 
       const leoResponse = await callGroqAPI(
         leoPrompt,
-        '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',
+        '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',
         'Leo'
       );
 
@@ -212,7 +212,7 @@ const Chat = () => {
 
         const maxResponse = await callGroqAPI(
           maxPrompt,
-          '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',
+          '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',
           'Max'
         );
 
